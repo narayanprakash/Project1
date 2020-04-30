@@ -1,7 +1,7 @@
 # Project1
 Spring WebFlux
 
-This codebase has the source code for the Item Reactive API that will be built as part of the course.
+This codebase has the source code for the Item Reactive API..
 
 Run the application in your local.
 
