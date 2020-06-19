@@ -11,8 +11,8 @@ Install Mongo DB in MAC
 
 1. Run the below command to install the MongoDB.
 
--- "brew install mongodb"
+`brew install mongodb`
 
 2. How to restart MongoDB in your local machine.
 
-brew services restart mongodb
+`brew services restart mongodb`
